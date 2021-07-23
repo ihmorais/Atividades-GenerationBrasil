@@ -1,3 +1,10 @@
+/* Escreva um sistema que leia três números inteiros e positivos (A, B, C) e
+calcule a seguinte expressão:
+D = R+S/2
+R = (A+B)²
+S = (B+C)² 
+*/
+
 package br.com.generation.introjava;
 
 import java.util.Scanner;
