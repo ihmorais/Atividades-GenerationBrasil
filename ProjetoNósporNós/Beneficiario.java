@@ -56,7 +56,7 @@ public class Beneficiario extends Usuario {
 	public void Demanda(Scanner read) {
 		
 		System.out.println("\n=================== AMPARADO =====================");
-		System.out.println("\nO QUE VOCÊ DESEJA RECEBER: \n1 - ALIMENTOS NÃO PERECÍVEIS(kg)"
+		System.out.println("\nO QUE VOCÊ DESEJA RECEBER: \n1  ALIMENTOS NÃO PERECÍVEIS(kg)"
 				+ "\n2 - ROUPAS \n3 - BRINQUEDOS \n4 - FARMÁCIA \n5 - OUTROS");
 		int numero = 0;
 		numero = read.nextInt();

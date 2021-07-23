@@ -1,4 +1,4 @@
-package br.com.generation.projetojava2;
+/**/package br.com.generation.projetojava2;
 
 public class Objetos {
 	private String objetos;
